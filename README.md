@@ -22,8 +22,10 @@ Pré-requisitos:
 
 1. Clone o repositório:
 
+```hcl
 git clone https://github.com/eufmartins/terraform-aws-webserver.git
 cd terraform-aws-webserver
+```
 
 2. Configure as variáveis (opcionalmente crie um arquivo terraform.tfvars):
 
