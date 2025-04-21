@@ -12,9 +12,11 @@ LinkedIn: [Felipe Martins](https://linkedin.com/in/eufmartins)
 
 Pré-requisitos:
 
+```hcl
 • Terraform instalado
 • Conta AWS com credenciais configuradas
 • Chave SSH cadastrada na AWS
+```
 
 ## Passos para execução
 
